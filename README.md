@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjang750
-- 👀 I’m interested in ...Java, Spring Boot, Database
-- 🌱 I’m currently learning ...Spring Boot, MSA
+- 👀 I’m interested in ...Java, Spring Boot, Database, Python, Go
+- 🌱 I’m currently learning ...LLM, RAG
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
